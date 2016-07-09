@@ -1,0 +1,42 @@
+body {background:yellow url(timg.jpg);background-repeat:no-repeat;background-attachment:fixed;background-position:20% 30%;}
+p {color:green;}
+p.pink {background-image:url(blue.jpg);padding:20px;}
+a.spec {background-image:url(baidu.jpg);padding:20px;text-decoration:none;}
+h1 {letter-spacing:-0.2em;text-decoration:blink;}
+p {letter-spacing:20px;}
+p.small {line-height:90%;}
+p.big {line-height:200%;}
+</style>
+</head>
+<body>
+<h1>看着好看吗</h1>
+<p class="pink">这是一个段落，中间包含<a href="http://www.baidu.com" class="spec">百度</a></p>
+<p><b>注释：</b>为了清晰的显示段落和链接的背景图片，我么采用了内边距。</p>
+<p class="small">大健康是的哈UI时代速回对岸是UI和爱的hi奥苏会丢按时丢按时安徽丢撒谎丢按时点上丢撒胡安徽段是滴啊会盛大和隧道撒好多岁安徽大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊  aaaaaaaaaaaaaaaaaaaaaaaaaaadsdasdas啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+<p class="big">大健康是的哈UI时代速回对岸是UI和爱的hi奥苏会丢按时丢按时安徽丢撒谎丢按时点上丢撒胡安徽段是滴啊会盛大和隧道撒好多岁安徽大啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊  aaaaaaaaaaaaaaaaaaaaaaaaaaadsdasdas啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+<p>图像不会随页面的其余部分滚动。</p>
+</body>
+</html>
